@@ -26,7 +26,7 @@ Lover of Technology and Coding 💓
 
 ## About me 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovanna-greg%C3%B3rio-guimar%C3%A3es-927293181/)](https://www.linkedin.com/in/giovanna-greg%C3%B3rio-guimar%C3%A3es-927293181/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)]()
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:giovanna.gregorio14@gmail.com)
 
 ##
 
