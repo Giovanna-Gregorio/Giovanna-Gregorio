@@ -6,8 +6,15 @@ Lover of Technology and Coding 💓
  
 ##
 
-[![Giovanna-Gregorio GitHub stats](https://github-readme-stats.vercel.app/api?username=Giovanna-Gregorio&theme=dracula)](https://github.com/Giovanna-Gregorio/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giovanna-gregorio&layout=compact&theme=dracula)](https://github.com/Giovanna-Gregorio/github-readme-stats)
+<a href=""> 
+ <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=giovanna-gregorio&theme=react&line_height=40&hide=css"/>
+</a>
+
+<a href=""> 
+ <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=giovanna-gregorio&theme=react&line_height=40&hide=css"/>
+</a>
+
+##
 
 <code><img height="20" src="https://img.shields.io/badge/C%23-239120?style=flat-squaree&logo=c-sharp&logoColor=white"></code> 
 <code><img height="20" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"></code> 
